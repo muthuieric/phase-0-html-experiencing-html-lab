@@ -6,7 +6,6 @@ PLATFORMS
   x86_64-linux
 
 DEPENDENCIES
-gem 'rspec'
 
 BUNDLED WITH
    2.4.13
